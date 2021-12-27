@@ -1,8 +1,0 @@
-{
-  "name": "maximemion",
-  "version": "1.0.0",
-  "main": "index.js",
-  "repository": "https://github.com/MinionMax/maximemion.git",
-  "author": "<maxime.mion@gmx.de>",
-  "license": "MIT"
-}
